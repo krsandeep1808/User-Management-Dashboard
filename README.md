@@ -174,12 +174,12 @@ When you're ready to show the world:
 ## Dashboard Screenshots
 1. **Users List - Table View:**
 <img width="100%" height="auto" src="Screenshots/Capture.JPG" />
-2. **Users List - Grid View:**
+3. **Users List - Grid View:**
 <img width="100%" height="auto" src="Screenshots/Capture1.JPG" />
 <img width="100%" height="auto" src="Screenshots/Capture2.JPG" />
-<img width="100%" height="auto" src="Screenshots/Capture3.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture3.jpeg" />
 <img width="100%" height="auto" src="Screenshots/Capture5.JPG" />
-3. **Analytics Dashboard:**
+4. **Analytics Dashboard:**
 <img width="100%" height="auto" src="Screenshots/Capture6.JPG" />
 <img width="100%" height="auto" src="Screenshots/Capture7.JPG.jpeg" />
 5. **Edit User Modal:**
