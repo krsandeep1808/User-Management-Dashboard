@@ -1,4 +1,4 @@
-# User Management Dashboard - Complete Guide
+# User Management Dashboard
 
 ## How to Get Started
 
