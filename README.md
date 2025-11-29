@@ -170,5 +170,22 @@ When you're ready to show the world:
 - Click user **names** to go directly to their profiles
 - The **filters** remember your preferences
 
+
+## Dashboard Screenshots
+1. **Users List - Table View:**
+<img width="100%" height="auto" src="Screenshots/Capture.JPG" />
+2. **Users List - Grid View:**
+<img width="100%" height="auto" src="Screenshots/Capture1.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture2.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture3.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture5.JPG" />
+3. **Analytics Dashboard:**
+<img width="100%" height="auto" src="Screenshots/Capture6.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture7.JPG.jpeg" />
+5. **Edit User Modal:**
+<img width="100%" height="auto" src="Screenshots/Capture4.JPG" />
+6. **Dark Mode:**
+<img width="100%" height="auto" src="Screenshots/Capture8.JPG" />
+<img width="100%" height="auto" src="Screenshots/Capture9.JPG" />
 ---
 
