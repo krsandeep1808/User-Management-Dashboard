@@ -47,12 +47,26 @@ You'll see: "App running on http://localhost:3000"
 
 ### 1. **Organized Code Structure**
 ```
-Your Project/
-├── components/     # Reusable pieces (buttons, tables, filters)
-├── pages/         # Main screens (Users, Analytics)
-├── store/         # Data management center
-├── services/      # Communication with database
-└── types/         # Data definitions
+User-Dashboard/
+├── public/
+│   ├── index.html
+│   ├── mock-data.json
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── store/
+│   ├── types/
+│   ├── services/
+│   ├── hooks/
+│   ├── App.tsx
+│   ├── App.css
+│   ├── index.tsx
+│   └── index.css
+├── package.json
+├── tsconfig.json           
+├── tailwind.config.js        
+├── postcss.config.js       
+└── README.md
 ```
 
 ### 2. **Smart Data Management (Redux)**
