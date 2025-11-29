@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "createdAt": "2024-01-15",
+      "lastLogin": "2024-01-20T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "status": "inactive",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "createdAt": "2024-01-16",
+      "lastLogin": "2024-01-18T14:20:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Mike Johnson",
+      "email": "mike@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "createdAt": "2024-01-17",
+      "lastLogin": "2024-01-21T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "createdAt": "2024-01-18",
+      "lastLogin": "2024-01-21T16:45:00Z"
+    },
+    {
+      "id": "5",
+      "name": "David Brown",
+      "email": "david@example.com",
+      "status": "inactive",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "createdAt": "2024-01-19",
+      "lastLogin": "2024-01-20T11:20:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "createdAt": "2024-01-20",
+      "lastLogin": "2024-01-21T08:30:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Chris Miller",
+      "email": "chris@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "createdAt": "2024-01-21",
+      "lastLogin": "2024-01-21T14:20:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Lisa Taylor",
+      "email": "lisa@example.com",
+      "status": "inactive",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "createdAt": "2024-01-22",
+      "lastLogin": "2024-01-22T10:15:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Mark Anderson",
+      "email": "mark@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "createdAt": "2024-01-23",
+      "lastLogin": "2024-01-23T16:45:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Amanda White",
+      "email": "amanda@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "createdAt": "2024-01-24",
+      "lastLogin": "2024-01-24T11:30:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Kevin Martin",
+      "email": "kevin@example.com",
+      "status": "inactive",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "createdAt": "2024-01-25",
+      "lastLogin": "2024-01-25T09:20:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Rachel Lee",
+      "email": "rachel@example.com",
+      "status": "active",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "createdAt": "2024-01-26",
+      "lastLogin": "2024-01-26T13:15:00Z"
+    }
+  ],
+  "analytics": {
+    "signups": [
+      { "date": "2024-01-15", "count": 5 },
+      { "date": "2024-01-16", "count": 8 },
+      { "date": "2024-01-17", "count": 12 },
+      { "date": "2024-01-18", "count": 7 },
+      { "date": "2024-01-19", "count": 15 },
+      { "date": "2024-01-20", "count": 10 },
+      { "date": "2024-01-21", "count": 13 }
+    ],
+    "statusDistribution": [
+      { "status": "active", "count": 8 },
+      { "status": "inactive", "count": 4 }
+    ]
+  },
+  "userActivities": {
+    "1": [
+      { "id": 1, "action": "Login", "timestamp": "2024-01-20T10:30:00Z" },
+      { "id": 2, "action": "Profile Update", "timestamp": "2024-01-19T14:20:00Z" },
+      { "id": 3, "action": "Password Change", "timestamp": "2024-01-18T09:15:00Z" },
+      { "id": 4, "action": "Login", "timestamp": "2024-01-17T16:45:00Z" },
+      { "id": 5, "action": "Settings Update", "timestamp": "2024-01-16T11:20:00Z" }
+    ],
+    "2": [
+      { "id": 1, "action": "Login", "timestamp": "2024-01-18T14:20:00Z" },
+      { "id": 2, "action": "Profile Update", "timestamp": "2024-01-17T11:30:00Z" },
+      { "id": 3, "action": "Login", "timestamp": "2024-01-15T09:45:00Z" },
+      { "id": 4, "action": "Password Reset", "timestamp": "2024-01-14T13:15:00Z" },
+      { "id": 5, "action": "Login", "timestamp": "2024-01-12T10:20:00Z" }
+    ]
+  }
+}
