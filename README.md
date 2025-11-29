@@ -1,6 +1,6 @@
 # User Management Dashboard - Complete Guide
 
-## 🚀 How to Get Started
+## How to Get Started
 
 1. **Download and install:**
 ```bash
@@ -17,19 +17,19 @@ npm install
 ```bash
 npm run server
 ```
-✅ You'll see: "Server running on http://localhost:3001"
+You'll see: "Server running on http://localhost:3001"
 
 **Second Window - Start the website:**
 ```bash
 npm start
 ```
-✅ You'll see: "App running on http://localhost:3000"
+You'll see: "App running on http://localhost:3000"
 
 3. **Open your browser:**
 - Go to `http://localhost:3000`
 - You're ready to use the dashboard!
 
-## 🛠 What's Inside (Technologies Used)
+## What's Inside (Technologies Used)
 
 ### Main Building Blocks:
 - **React 18** - The core framework that makes everything work
@@ -43,7 +43,7 @@ npm start
 - **Axios** - Talks to the fake database
 - **JSON Server** - Our pretend database for testing
 
-## 🏗 Why We Built It This Way
+## Why We Built It This Way
 
 ### 1. **Organized Code Structure**
 ```
@@ -74,9 +74,9 @@ Your Project/
 - **Professional**: Looks like a real business tool
 - **Fast**: Smooth animations and quick loading
 
-## 📊 What You Can Do
+## What You Can Do
 
-### 👥 Users Section
+### Users Section
 - **View all users** in a nice table or grid
 - **Search** by name or email
 - **Filter** by active/inactive status
@@ -84,19 +84,19 @@ Your Project/
 - **Click any user** to see their full profile
 - **Edit user info** with a simple pop-up form
 
-### 📈 Analytics Section
+### Analytics Section
 - **See user growth** over the last 7 days (line chart)
 - **View active vs inactive** users (pie chart)
 - **Quick stats** showing total users and status breakdown
 
-### 🎨 Nice Features
+### Nice Features
 - **Switch views** between table and card layouts
 - **Dark/light mode** toggle
 - **Real-time search** (waits until you stop typing)
 - **Loading animations** so you know it's working
 - **Empty states** with helpful messages
 
-## 🎯 Why These Technical Choices?
+## Why These Technical Choices?
 
 ### Why Redux?
 - When you edit a user, everything updates instantly
@@ -116,7 +116,7 @@ Your Project/
 - **Easy to grow**: Can add new features without starting over
 - **Easy to understand**: Clear separation of responsibilities
 
-## 📸 What It Looks Like
+## What It Looks Like
 
 *(Imagine screenshots here showing:)*
 
@@ -125,7 +125,7 @@ Your Project/
 3. **Analytics** - Beautiful charts showing user trends and statistics
 4. **Mobile View** - Everything works perfectly on phones too
 
-## 🔧 Need to Make Changes?
+##  Need to Make Changes?
 
 ### Common Commands:
 ```bash
@@ -141,14 +141,14 @@ npm test           # Run tests (if you add them later)
 - **New data types?** Update `types/index.ts`
 - **API calls?** Add to `services/api.ts`
 
-## 🚀 Ready for Production?
+## Ready for Production?
 
 When you're ready to show the world:
 1. Run `npm run build`
 2. Upload the `build/` folder to any web hosting service
 3. Replace the fake database with a real backend API
 
-## 💡 Tips for Using the Dashboard
+## Tips for Using the Dashboard
 
 - Use the **search** to quickly find users
 - Try the **dark mode** for comfortable evening work
